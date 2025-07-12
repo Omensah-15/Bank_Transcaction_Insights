@@ -38,6 +38,8 @@ This dataset consists of **1,000 synthetic banking transactions** with rich cont
 
 This dashboard is composed of multiple visuals offering granular insight into the dataset. Each section is described below:
 
+![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/6bc863c0e1f92735a44e8a807f3f56c00adab1be/Images/Image-1.png)
+
 ### 1. 🧩 Total Transaction Count by Network Slice ID
 **Visual Type:** Pie Chart  
 - **Slice1:** 323 transactions (32.3%)  
