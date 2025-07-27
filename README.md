@@ -46,7 +46,7 @@ This dashboard is composed of multiple visuals offering granular insight into th
 - **Slice2:** 340 transactions (34%)  
 - **Slice3:** 337 transactions (33.7%)  
 - **Insight:** Transactions are fairly evenly distributed across the three network slices. Helps identify if any network slice is over- or under-utilized.
-
+![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/b3b51ef72cd85d63dfe5216f303eb437e42db8ca/Images/Image_1.png)
 ---
 
 ### 2. 📶 Impact of Bandwidth on Success Rate (%)
