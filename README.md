@@ -103,3 +103,8 @@ This dashboard is composed of multiple visuals offering granular insight into th
 - **Power BI**: Interactive dashboard and data visualization
 
 ---
+## 👨‍💻 Author
+
+**Obed Mensah**  
+*Data Scientist — Python | Power BI | SQL | Analytics*  
+📧 [heavenzlebron7@gmail.com](mailto:heavenzlebron7@gmail.com)
