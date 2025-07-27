@@ -74,7 +74,7 @@ This dashboard is composed of multiple visuals offering granular insight into th
 - **Failed Transactions:** 487 (48.7%)  
 - **Insight:** A nearly even split between successful and failed transactions signals potential process or system bottlenecks needing resolution.
 
-![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/3adcb73eb1e390f5ebfd249089e59efe8fcb61d4/Images/Image_2.png)
+![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/c1f21202911bd499720dadd4313eaae2d409ef0d/Images/Image_4.png)
 ---
 
 ### 5. 📈 Total Transaction Over Time
