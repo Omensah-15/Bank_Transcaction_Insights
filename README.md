@@ -101,7 +101,7 @@ This dashboard is composed of multiple visuals offering granular insight into th
 - **Value:** **771.17K**  
 - **Insight:** The dashboard summarizes the overall financial impact, helping business stakeholders understand total transaction throughput.
 
-![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/3adcb73eb1e390f5ebfd249089e59efe8fcb61d4/Images/Image_2.png)
+![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/85957d4ec5573ad833d61aaa9c3c70c0fc5dce66/Images/Image_7.png)
 ---
 
 
