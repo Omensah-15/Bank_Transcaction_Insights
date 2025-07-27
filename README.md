@@ -93,7 +93,7 @@ This dashboard is composed of multiple visuals offering granular insight into th
 - **Withdrawal Failures:** ~165  
 - **Insight:** Transfers have the highest failure rate. Additional focus should be placed on investigating the causes (e.g., network, user error, fraud).
 
-![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/3adcb73eb1e390f5ebfd249089e59efe8fcb61d4/Images/Image_2.png)
+![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/42c02f13cbb637f13d86325f5cb3cf39253cca46/Images/Image_6.png)
 ---
 
 ### 7. 💰 Total Transaction Value
