@@ -56,6 +56,7 @@ This dashboard is composed of multiple visuals offering granular insight into th
 - **Y-axis:** Success Rate (%)  
 - **Insight:** Success rates vary significantly with bandwidth. Higher bandwidth generally correlates with improved success, highlighting the importance of network capacity on transaction reliability.
 
+![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/3adcb73eb1e390f5ebfd249089e59efe8fcb61d4/Images/Image_2.png)
 ---
 
 ### 3. ⏱️ Failed Transactions by Latency (ms)
@@ -72,6 +73,7 @@ This dashboard is composed of multiple visuals offering granular insight into th
 - **Failed Transactions:** 487 (48.7%)  
 - **Insight:** A nearly even split between successful and failed transactions signals potential process or system bottlenecks needing resolution.
 
+![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/3adcb73eb1e390f5ebfd249089e59efe8fcb61d4/Images/Image_2.png)
 ---
 
 ### 5. 📈 Total Transaction Over Time
@@ -80,6 +82,7 @@ This dashboard is composed of multiple visuals offering granular insight into th
 - **Time Range:** 10:00 AM to 11:00 AM  
 - **Insight:** Transaction volume fluctuates during the hour, with peaks around 10:20 AM and 10:55 AM. This can be useful for identifying high-demand periods.
 
+![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/3adcb73eb1e390f5ebfd249089e59efe8fcb61d4/Images/Image_2.png)
 ---
 
 ### 6. 🔁 Failure Rate by Transaction Type
@@ -89,6 +92,7 @@ This dashboard is composed of multiple visuals offering granular insight into th
 - **Withdrawal Failures:** ~165  
 - **Insight:** Transfers have the highest failure rate. Additional focus should be placed on investigating the causes (e.g., network, user error, fraud).
 
+![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/3adcb73eb1e390f5ebfd249089e59efe8fcb61d4/Images/Image_2.png)
 ---
 
 ### 7. 💰 Total Transaction Value
@@ -96,6 +100,7 @@ This dashboard is composed of multiple visuals offering granular insight into th
 - **Value:** **771.17K**  
 - **Insight:** The dashboard summarizes the overall financial impact, helping business stakeholders understand total transaction throughput.
 
+![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/3adcb73eb1e390f5ebfd249089e59efe8fcb61d4/Images/Image_2.png)
 ---
 
 
