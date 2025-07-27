@@ -83,7 +83,7 @@ This dashboard is composed of multiple visuals offering granular insight into th
 - **Time Range:** 10:00 AM to 11:00 AM  
 - **Insight:** Transaction volume fluctuates during the hour, with peaks around 10:20 AM and 10:55 AM. This can be useful for identifying high-demand periods.
 
-![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/3adcb73eb1e390f5ebfd249089e59efe8fcb61d4/Images/Image_2.png)
+![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/097fe77528bea79396182858fc7ed29a5f751074/Images/Image_5.png)
 ---
 
 ### 6. 🔁 Failure Rate by Transaction Type
