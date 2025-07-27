@@ -65,7 +65,7 @@ This dashboard is composed of multiple visuals offering granular insight into th
 - **Y-axis:** Number of Failed Transactions  
 - **Insight:** Failed transactions increase noticeably at higher latency values (>15ms). Latency optimization can reduce transaction failures.
 
-![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/3adcb73eb1e390f5ebfd249089e59efe8fcb61d4/Images/Image_2.png)
+![image alt](https://github.com/Omensah-15/Bank_Transcaction_Insights/blob/edb6713e09d051039644622b899111ab54f8b557/Images/Image_3.png)
 ---
 
 ### 4. ✅❌ Failed vs Successful Transactions
